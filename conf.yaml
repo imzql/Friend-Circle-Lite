@@ -5,7 +5,7 @@
 #   article_count:      请填写每个博客需要获取的最大文章数量
 spider_settings:
   enable: true
-  json_url: "https://blog.qyliu.top/friend.json"
+  json_url: "https://usj.cc/json/friends.json"
   article_count: 5
 
 # 邮箱推送功能配置，暂未实现，等待后续开发
@@ -28,9 +28,9 @@ email_push:
 #   your_blog_url:      你的博客地址
 rss_subscribe:
   enable: true
-  github_username: willow-god
+  github_username: imzql
   github_repo: Friend-Circle-Lite
-  your_blog_url: https://blog.qyliu.top/
+  your_blog_url: https://usj.cc/
   email_template: "./rss_subscribe/email_template.html"
 
 # SMTP 配置
@@ -40,7 +40,7 @@ rss_subscribe:
 #   port：              SMTP 端口号
 #   use_tls：           是否使用 tls 加密
 smtp:
-  email: 3162475700@qq.com
+  email: imql@qq.com
   server: smtp.qq.com
   port: 587
   use_tls: true
