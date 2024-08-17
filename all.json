@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 58,
-    "active_num": 46,
-    "error_num": 12,
+    "active_num": 47,
+    "error_num": 11,
     "article_num": 213,
-    "last_updated_time": "2024-08-17 08:54:19"
+    "last_updated_time": "2024-08-17 14:17:03"
   },
   "article_data": [
     {
@@ -20,13 +20,6 @@
       "link": "https://yayu.net/4401.html",
       "author": "雅余",
       "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/icon.png"
-    },
-    {
-      "title": "失踪人口回归",
-      "created": "2024-08-16 09:23",
-      "link": "https://blog.allnull.cn/post-69",
-      "author": "十七的小栈",
-      "avatar": "https://cravatar.cn/avatar/56238a7f177c534928fd3cf4161ab59e?s=65&r=G&d=mm"
     },
     {
       "title": "在小院里种棵瓜",
@@ -512,6 +505,13 @@
       "avatar": "https://gravatar.webp.se/avatar/5a076aa876b435fe788c8eeda004e9ec"
     },
     {
+      "title": "重新部署一遍",
+      "created": "2024-07-13 20:12",
+      "link": "https://www.logyu.cc/daily/deploy-again.html",
+      "author": "日志屿",
+      "avatar": "https://p.logyu.cc/logo.png"
+    },
+    {
       "title": "其实大部分人，已经见完了彼此的最后一面。",
       "created": "2024-07-13 13:58",
       "link": "https://www.thyuu.com/78347",
@@ -573,6 +573,13 @@
       "link": "https://www.thyuu.com/78324",
       "author": "风记星辰",
       "avatar": "https://std.thyuu.com/logo.webp"
+    },
+    {
+      "title": "NAS趴窝&amp;博客除草",
+      "created": "2024-07-06 02:02",
+      "link": "https://www.logyu.cc/daily/nas-crazy.html",
+      "author": "日志屿",
+      "avatar": "https://p.logyu.cc/logo.png"
     },
     {
       "title": "二四年六月小结",
@@ -1009,6 +1016,20 @@
       "avatar": "https://www.liuchengrui.cn/myphoto.png"
     },
     {
+      "title": "换域名后Typecho发布文章500报错",
+      "created": "2024-03-11 05:34",
+      "link": "https://www.logyu.cc/notes/typecho-posts-500-errors-after-changing-domain-name.html",
+      "author": "日志屿",
+      "avatar": "https://p.logyu.cc/logo.png"
+    },
+    {
+      "title": "该不该切换到静态博客？",
+      "created": "2024-03-10 22:25",
+      "link": "https://www.logyu.cc/daily/should-i-switch-to-a-static-blog.html",
+      "author": "日志屿",
+      "avatar": "https://p.logyu.cc/logo.png"
+    },
+    {
       "title": "整了个相机",
       "created": "2024-03-09 09:41",
       "link": "https://qydzz.cn/archives/1176.html",
@@ -1240,6 +1261,13 @@
       "avatar": "https://www.baipin.pw/wp-content/uploads/2019/07/cropped-ABUIABACGAAg_bP2wwUorbiplQQwgAU4gAU.jpg"
     },
     {
+      "title": "Typecho更换域名数据库操作",
+      "created": "2023-10-19 03:54",
+      "link": "https://www.logyu.cc/notes/typecho-replace-domain-name-database-operation.html",
+      "author": "日志屿",
+      "avatar": "https://p.logyu.cc/logo.png"
+    },
+    {
       "title": "Apple 为什么是一家最好的公司？",
       "created": "2023-10-05 11:11",
       "link": "https://www.eacls.top/posts/d296871d/",
@@ -1352,13 +1380,6 @@
       "avatar": "https://cravatar.cn/avatar/05729ab2ca3b99203a674859f77d592b?&d=mp"
     },
     {
-      "title": "加油，打工人！",
-      "created": "2023-06-27 09:13",
-      "link": "https://blog.allnull.cn/post-60",
-      "author": "十七的小栈",
-      "avatar": "https://cravatar.cn/avatar/56238a7f177c534928fd3cf4161ab59e?s=65&r=G&d=mm"
-    },
-    {
       "title": "蓝豆打字网 | 在线打字练习网站",
       "created": "2023-06-15 17:47",
       "link": "https://www.sirit.com.cn/archives/665/",
@@ -1394,20 +1415,6 @@
       "avatar": "https://www.sirit.com.cn/siritlogo.png"
     },
     {
-      "title": "周五了，起床吃早餐篇",
-      "created": "2023-04-07 08:00",
-      "link": "https://www.ershiliu.com/20230407-1",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
-    },
-    {
-      "title": "理论：韦伯定律",
-      "created": "2023-04-05 08:00",
-      "link": "https://www.ershiliu.com/20230405-1",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
-    },
-    {
       "title": "可得优KW-triO可调式活页打孔机的调校",
       "created": "2023-04-01 06:09",
       "link": "https://www.sirit.com.cn/archives/655/",
@@ -1415,39 +1422,18 @@
       "avatar": "https://www.sirit.com.cn/siritlogo.png"
     },
     {
-      "title": "阳了个阳",
-      "created": "2022-12-23 22:48",
-      "link": "https://blog.allnull.cn/post-57",
-      "author": "十七的小栈",
-      "avatar": "https://cravatar.cn/avatar/56238a7f177c534928fd3cf4161ab59e?s=65&r=G&d=mm"
-    },
-    {
-      "title": "或许是遗憾吧",
-      "created": "2022-11-12 05:56",
-      "link": "https://blog.allnull.cn/post-56",
-      "author": "十七的小栈",
-      "avatar": "https://cravatar.cn/avatar/56238a7f177c534928fd3cf4161ab59e?s=65&r=G&d=mm"
-    },
-    {
-      "title": "抗疫志愿者",
-      "created": "2022-10-29 08:00",
-      "link": "https://www.ershiliu.com/20221029",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
-    },
-    {
-      "title": "History Ⅱ",
-      "created": "2022-10-24 06:34",
-      "link": "https://blog.allnull.cn/post-55",
-      "author": "十七的小栈",
-      "avatar": "https://cravatar.cn/avatar/56238a7f177c534928fd3cf4161ab59e?s=65&r=G&d=mm"
-    },
-    {
       "title": "【Fivk】文章归档",
       "created": "2022-04-13 19:50",
       "link": "https://blog.fivk.cn/archives/1205.html",
       "author": "Fivk博客",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=11470226&s=640"
+    },
+    {
+      "title": "又到了湿笠笠的回南天",
+      "created": "2022-03-26 08:00",
+      "link": "https://www.ershiliu.com/20220326",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
     },
     {
       "title": "介绍一下网上的免费公共 DNS",
@@ -1481,6 +1467,20 @@
       "title": "我换上联想小新pro13 2020了",
       "created": "2021-10-01 08:00",
       "link": "https://www.ershiliu.com/2021101",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
+    },
+    {
+      "title": "家里的网络改造计划，完成啦！",
+      "created": "2021-08-08 08:00",
+      "link": "https://www.ershiliu.com/20210808",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
+    },
+    {
+      "title": "从 Typecho 迁移到 Eleventy",
+      "created": "2021-08-03 08:00",
+      "link": "https://www.ershiliu.com/20210803",
       "author": "二十六",
       "avatar": "https://www.ershiliu.com/favicon.ico"
     },
