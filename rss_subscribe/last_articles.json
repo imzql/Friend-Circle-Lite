@@ -1,6 +1,14 @@
 {
     "articles": [
         {
+            "title": "今天空闲时间清理了部分无法打开的友链",
+            "author": "",
+            "link": "https://usj.cc/post/delete-some-links/",
+            "published": "2024-09-18 17:16",
+            "summary": "今天空闲的时候，查看了一下友链列表，发现很多博客打不开了 为了避免跳菠菜和h网，清理了一些博客链接，如果有恢复，请博客的留言页面留言",
+            "content": "<img alt=\"今天空闲时间清理了部分无法打开的友链\" src=\"/\" /><p>今天空闲的时候，查看了一下友链列表，发现很多博客打不开了</p>\n<p>为了避免跳菠菜和h网，清理了一些博客链接，如果有恢复，请博客的留言页面留言</p>"
+        },
+        {
             "title": "Hugo使用GitHub Action自动刷新多吉云CDN缓存",
             "author": "",
             "link": "https://usj.cc/post/dogeyun-auto-refresh-cdn/",
@@ -31,14 +39,6 @@
             "published": "2024-03-16 23:24",
             "summary": "在笔记本下线之后，看了一圈狗东，因为自己玩游戏比较少 主要是看的商务本，好一点的商务笔记本就得四五千了 思来想去还是打算组装itx主机，论性价比",
             "content": "<img alt=\"一次点亮\" src=\"/\" /><p>在笔记本下线之后，看了一圈狗东，因为自己玩游戏比较少</p>\n<p>主要是看的商务本，好一点的商务笔记本就得四五千了</p>\n<p>思来想去还是打算组装itx主机，论性价比还得是台式机</p>\n<p>2k成功拿下，拿来跑跑代码足够了，工作了再买张显卡，还是很香的</p>\n<p>感谢 @小李 @小陈 帮忙，成功一次点亮</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>"
-        },
-        {
-            "title": "访客体验优化",
-            "author": "",
-            "link": "https://usj.cc/post/1279/",
-            "published": "2024-03-02 06:12",
-            "summary": "今天下午逛GitHub的时候，GitHub的首页推了一个这样的项目 https://github.com/instantpage/instant.page 项目的介绍这样写到 PC端 在用户单击链接之前，他们会将鼠标悬停在该链接上。",
-            "content": "<img alt=\"访客体验优化\" src=\"/\" /><p>今天下午逛GitHub的时候，GitHub的首页推了一个这样的项目</p>\n<p>\n<a href=\"/tiaozhuan/index.html?target=aHR0cHM6Ly9naXRodWIuY29tL2luc3RhbnRwYWdlL2luc3RhbnQucGFnZQ%3d%3d\" target=\"_blank\">\nhttps://github.com/instantpage/instant.page</a></p>\n<p>项目的介绍这样写到</p>\n<h2 id=\"pc端\">PC端</h2>\n<pre tabindex=\"0\"><code>在用户单击链接之前，他们会将鼠标悬停在该链接上。当用户悬停 65 毫秒时，他们有二分之一的机会点击该链接，因此 instant.page此时开始预加载，平均为页面预加载留下超过 300 毫秒的时间。\n另一种选择是在用户开始按下鼠标时加载页面而不进行预加载。这使得未使用的请求为零，同时仍然将页面加载平均提高了 80 毫秒。\n您还可以在悬停时或链接可见时进行预加载，并在用户开始按下鼠标时触发点击，从而使您的页面成为世界上最快的页面。\n</code></pre><h2 id=\"移动端\">移动端</h2>\n<pre tabindex=\"0\"><code>用户在释放之前开始触摸显示屏，平均留出90 毫秒的时间来预加载页面。\n</code></pre><p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>汉译过来大概意思就是，当鼠标即将悬停到a标签的之前，对该链接进行预加载，提高访问速度</p>\n<p>因为之前有同学反馈我的博客点击文章加载有些慢，于是乎说干就干，项目很简单，如需上手，直接在body标签之前加入一行js代码即可</p>\n<p>代码如下</p>\n<div class=\"highlight\"><pre tabindex=\"0\"><code class=\"language-js\"><span style=\"display: flex;\"><span><span style=\"color: #ce5c00; font-weight: bold;\">&lt;</span><span style=\"color: #000;\">script</span> <span style=\"color: #000;\">src</span><span style=\"color: #ce5c00; font-weight: bold;\">=</span><span style=\"color: #4e9a06;\">\"//instant.page/5.2.0\"</span> <span style=\"color: #000;\">type</span><span style=\"color: #ce5c00; font-weight: bold;\">=</span><span style=\"color: #4e9a06;\">\"module\"</span> <span style=\"color: #000;\">integrity</span><span style=\"color: #ce5c00; font-weight: bold;\">=</span><span style=\"color: #4e9a06;\">\"sha384-jnZyxPjiipYXnSU0ygqeac2q7CVYMbh84q0uHVRRxEtvFPiQYbXWUorga2aqZJ0z\"</span><span style=\"color: #ce5c00; font-weight: bold;\">&gt;&lt;</span><span style=\"color: #a40000;\">/script&gt;</span>\n</span></span></code></pre></div><p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>如上截图所示，当鼠标即将点击到文章链接，instant.page会对文章链接执行预加载，从而提高页面渲染速度</p>\n<p>各位来访的朋友，有没有觉得速度比之前更快呢</p>"
         }
     ]
 }
