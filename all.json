@@ -4,9 +4,16 @@
     "active_num": 49,
     "error_num": 9,
     "article_num": 230,
-    "last_updated_time": "2024-09-18 20:24:22"
+    "last_updated_time": "2024-09-19 02:16:51"
   },
   "article_data": [
+    {
+      "title": "新工作，上班了",
+      "created": "2024-09-19 06:18",
+      "link": "https://qydzz.cn/archives/1207.html",
+      "author": "七栀",
+      "avatar": "https://qydzz.cn/logo.png"
+    },
     {
       "title": "银行流水谜团",
       "created": "2024-09-19 02:21",
@@ -15,11 +22,11 @@
       "avatar": "https://cravatar.cn/avatar/4741124456fb02fa4da30494dbc6c99e?d=monsterid&s=80"
     },
     {
-      "title": "今天空闲时间清理了部分无法打开的友链",
-      "created": "2024-09-18 17:16",
-      "link": "https://usj.cc/post/delete-some-links/",
-      "author": "优世界",
-      "avatar": "https://usj.cc/favicon.ico"
+      "title": "如何Bing和Baidu屏蔽CSDN和知乎的搜索结果",
+      "created": "2024-09-18 22:06",
+      "link": "https://yayu.net/4617.html",
+      "author": "雅余",
+      "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/icon.png"
     },
     {
       "title": "中国人的出厂设置",
@@ -73,7 +80,7 @@
     {
       "title": "Hugo使用GitHub Action自动刷新多吉云CDN缓存",
       "created": "2024-09-16 22:48",
-      "link": "https://usj.cc/post/dogeyun-auto-refresh-cdn/",
+      "link": "https://usj.cc/20240916-auto-refresh-cdn/",
       "author": "优世界",
       "avatar": "https://usj.cc/favicon.ico"
     },
@@ -335,13 +342,6 @@
       "link": "https://xyzbz.cn/archives/1211/",
       "author": "网友小宋",
       "avatar": "https://cravatar.cn/avatar/120340d1df519f4e28613fe5d404b286?s=65&r=G&d="
-    },
-    {
-      "title": "Obsidian 和 WordPress 我都用什么插件",
-      "created": "2024-09-03 19:24",
-      "link": "https://yayu.net/4520.html",
-      "author": "雅余",
-      "avatar": "https://yayu.net/wp-content/themes/yayu/assets/images/icon.png"
     },
     {
       "title": "Nginx 集成 ModSecurity 实现 Web 应用防火墙功能",
@@ -619,7 +619,7 @@
     {
       "title": "迁移博客至hugo",
       "created": "2024-08-12 04:52",
-      "link": "https://usj.cc/post/migrate-to-hugo/",
+      "link": "https://usj.cc/20240811-typecho-to-hugo/",
       "author": "优世界",
       "avatar": "https://usj.cc/favicon.ico"
     },
@@ -960,6 +960,13 @@
       "avatar": "https://www.liuchengrui.cn/myphoto.png"
     },
     {
+      "title": "win11右键菜单改回win10方法",
+      "created": "2024-05-19 21:21",
+      "link": "https://usj.cc/1299/",
+      "author": "优世界",
+      "avatar": "https://usj.cc/favicon.ico"
+    },
+    {
       "title": "iTwitter 2 部分后台功能描述",
       "created": "2024-05-17 18:32",
       "link": "https://blog.200011.net/itwitter-2-setting-detail",
@@ -1074,7 +1081,7 @@
     {
       "title": "主机配置单",
       "created": "2024-04-05 20:39",
-      "link": "https://usj.cc/post/1287/",
+      "link": "https://usj.cc/1287/",
       "author": "优世界",
       "avatar": "https://usj.cc/favicon.ico"
     },
@@ -1114,13 +1121,6 @@
       "avatar": "https://q2.qlogo.cn/g?b=qq&nk=2780008080&s=100"
     },
     {
-      "title": "全款提车",
-      "created": "2024-03-27 07:46",
-      "link": "https://qydzz.cn/archives/1183.html",
-      "author": "七栀",
-      "avatar": "https://qydzz.cn/logo.png"
-    },
-    {
       "title": "向上的生命力比皮囊更有杀伤力",
       "created": "2024-03-24 23:10",
       "link": "https://www.fcln.net/archives/80/",
@@ -1158,7 +1158,7 @@
     {
       "title": "一次点亮",
       "created": "2024-03-16 23:24",
-      "link": "https://usj.cc/post/1284/",
+      "link": "https://usj.cc/1284/",
       "author": "优世界",
       "avatar": "https://usj.cc/favicon.ico"
     },
@@ -1506,11 +1506,32 @@
       "avatar": "https://www.sirit.com.cn/siritlogo.png"
     },
     {
+      "title": "别让工作疏远生活",
+      "created": "2023-04-11 08:00",
+      "link": "https://www.ershiliu.com/20230411",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
+    },
+    {
+      "title": "你也是还在等吗？",
+      "created": "2023-04-10 08:00",
+      "link": "https://www.ershiliu.com/20230410",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
+    },
+    {
       "title": "《浴缸里的惊叹》问题集锦",
       "created": "2023-04-10 03:17",
       "link": "https://www.sirit.com.cn/archives/657/",
       "author": "大嘴狗狗",
       "avatar": "https://www.sirit.com.cn/siritlogo.png"
+    },
+    {
+      "title": "周五了，起床吃早餐篇",
+      "created": "2023-04-07 08:00",
+      "link": "https://www.ershiliu.com/20230407-1",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
     },
     {
       "title": "理论：尼古丁的影响",
@@ -1527,27 +1548,6 @@
       "avatar": "https://www.sirit.com.cn/siritlogo.png"
     },
     {
-      "title": "记一次喝超浓茶后失眠的痛苦感受",
-      "created": "2023-03-21 08:00",
-      "link": "https://www.ershiliu.com/20230321",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
-    },
-    {
-      "title": "还是留些遗憾吧",
-      "created": "2023-01-20 08:00",
-      "link": "https://www.ershiliu.com/20230120",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
-    },
-    {
-      "title": "发现我好像有个大毛病",
-      "created": "2023-01-16 08:00",
-      "link": "https://www.ershiliu.com/20230116",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
-    },
-    {
       "title": "阳了个阳",
       "created": "2022-12-23 22:48",
       "link": "https://blog.allnull.cn/post-57",
@@ -1555,9 +1555,9 @@
       "avatar": "https://cravatar.cn/avatar/56238a7f177c534928fd3cf4161ab59e?s=65&r=G&d=mm"
     },
     {
-      "title": "今年双十一真不给力！",
-      "created": "2022-11-12 08:00",
-      "link": "https://www.ershiliu.com/20221112",
+      "title": "我在16personalities网站测试结果是“提倡者” 人格",
+      "created": "2022-12-19 08:00",
+      "link": "https://www.ershiliu.com/20221219",
       "author": "二十六",
       "avatar": "https://www.ershiliu.com/favicon.ico"
     },
