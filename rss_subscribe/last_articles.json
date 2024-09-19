@@ -17,28 +17,28 @@
             "content": "<img alt=\"迁移博客至hugo\" src=\"/\" /><p>近日，在午休的时候，突然收到了腾讯云的短信，起初以为就是腾讯云的新产品上线的营销短信，也就没管它</p>\n<p>午觉起床仔细查看，原来是我当时买的四年腾讯云轻量服务器马上要到期了，于是去腾讯云官网看看有没有划算的活动，再续几年，不出我所料，腾讯云只对新用户才有优惠活动，而老用户单纯续费不走活动的话，价格不是我这种小博主可以承担的起的</p>\n<p>所以只能放弃，另辟蹊径</p>\n<p>经历差不多三四天内心博弈与挣扎，总算下定决心，我要转静态博客，比较有名的静态博客平台就属hexo，hugo，因为hexo有丰富的主题和插件生态以及很多优秀积极活跃的开发者，所以我首选的静态博客平台是hexo，实际用了几天hexo，在此期间曾拿hugo测试比较，我还是放弃了hexo</p>\n<p>没有选择使用 Hexo 的一个最大原因是，Hexo 的性能远远不及 Hugo</p>\n<p>我的博客文章从typecho导出大概有一百多篇文章，用hexo构建，大部分情况下需要半分钟，而在老家那个老式办公机，可能是电脑性能太差，经常会出现构建失败，而用hugo却只需要两秒即可构建所有页面及文章，即使我的老式办公机也可以快速构建，极大的原因可能是hugo的底层是go写的，构建速度会比hexo快很多</p>\n<p>下决心转到hugo的这几天里，给我最大的感受就是hugo的主题真的是太少了，大部分都是老外写的，因为自己下载的hugo最新的版本，一些比较老的hugo主题，实际运行会出现奇奇怪怪的报错，试了几个比较满意的主题都遇到各种奇奇怪怪的报错问题，对一个新手来说还真的是蛮打击心态的，找了一圈也没有找到满意的</p>\n<p>于是我又萌生了一个新的想法，要不，自己手搓一个hugo主题</p>\n<p>万万没想到，我又遇到了第二个棘手的问题，hugo的文档真的很差，大部分都是机翻，描述的语言晦涩难懂，对于一个新手开发者真的太打击了</p>\n<p>不过好在，之前二开过几款typecho主题，所以也是有了点自己的门道，找了几款star比较多的hugo主题，将它的主题源码下载下来，研究学习，经过差不多半个月的摸爬滚打，也算是把主题的雏形慢慢搓出来了，本地进行简单的测试，然后就匆匆上线了</p>\n<p>至此，我的博客彻底定型为hugo</p>\n<h2 id=\"个人感受\">个人感受</h2>\n<p>最大的感受就是静态博客真的很省心，转到了静态博客，我不用再花费相当大的精力去维护LNMP 类型的博客（typecho）</p>\n<p>因为静态博客不再依赖数据库，也不会遇到数据库长时间不重启，突然某一天自己熄火</p>\n<p>其次再也不用为ssl证书发愁，通过GitHub action 自动构建在博客托管平台，vercel会自动帮我续期ssl证书</p>\n<p>此外我也不用再考虑通过各种各样的插件优化博客速度，静态博客全站静态化搭配国内cdn，可以达到相当快很快的访问速度</p>\n<p>我也不用花精力在备份上了，静态博客全站托管在GitHub，通过GitHub action 自动化构建，GitHub存一份，腾讯云oss存一份，又拍云存一份，基本上都是自动化，省去了很多人工操作</p>\n<p>或许我只用关心如何写好自己的文章</p>\n<h2 id=\"关于主题\">关于主题</h2>\n<p>经常逛我博客的老朋友可能知道，这次hugo主题主要是移植的是typecho我曾魔改的Ying主题</p>\n<p>也有很多朋友问我typecho版本是否可以开源，这里统一回复一下，<strong>typecho版本不开源</strong></p>\n<p>主要原因是当时魔改的时候还没有一个正确的思路，功能都是东拼西凑，只达到了能跑的现状，也可以说是完完全全的屎山代码</p>\n<p>整体的维护性很差，很多代码我自己现在都看不懂了，属于会改的不想看，不会改的看不懂</p>\n<p>为了不耽误各位的时间，就不要来找我要主题了，最后特别感谢大家对我魔改的肯定</p>\n<h2 id=\"主题优化\">主题优化</h2>\n<p>在主题还是typecho版本的时候，有博友反馈pc端的评论弹幕很卡</p>\n<p>这次特地重写了弹幕逻辑，各位来访的朋友，是不是感觉很丝滑呢</p>\n<p>\n<img alt=\"image-20240811222643740\" class=\"lazyload\" /></p>\n<p>主题还在开发中，如果访问期间遇到bug请F5强制刷新缓存</p>\n<h2 id=\"特别感谢\">特别感谢</h2>\n<p>Hugo 官方 \n<a href=\"/tiaozhuan/index.html?target=aHR0cHM6Ly9nb2h1Z28uaW8%3d\" target=\"_blank\">\nhttps://gohugo.io</a></p>\n<p>\n<a href=\"/tiaozhuan/index.html?target=aHR0cHM6Ly90LXQubGl2ZQ%3d%3d\" target=\"_blank\">\n团团</a>   \n<a href=\"/tiaozhuan/index.html?target=aHR0cHM6Ly90LXQubGl2ZQ%3d%3d\" target=\"_blank\">\nhttps://t-t.live</a></p>\n<p>\n<a href=\"/tiaozhuan/index.html?target=aHR0cHM6Ly9xcS5tZA%3d%3d\" target=\"_blank\">\n叶开</a>   \n<a href=\"/tiaozhuan/index.html?target=aHR0cHM6Ly9xcS5tZA%3d%3d\" target=\"_blank\">\nhttps://qq.md</a></p>\n<p>\n<a href=\"/tiaozhuan/index.html?target=aHR0cHM6Ly9saWthaWppYW4uY29tLw%3d%3d\" target=\"_blank\">\n永恒末匕</a>   \n<a href=\"/tiaozhuan/index.html?target=aHR0cHM6Ly9saWthaWppYW4uY29t\" target=\"_blank\">\nhttps://likaijian.com</a></p>\n<p>特别感谢主题开发期间提供帮助的博友以及开发者（以上排名不分先后）</p>"
         },
         {
+            "title": "parsec远程软件报6023错误",
+            "author": "",
+            "link": "https://usj.cc/1309/",
+            "published": "2024-06-02 19:36",
+            "summary": "parsec是一款远程软件（同款软件有todesk，向日葵），parsec远程延迟很低而且免费 parsec官网：https://parsec",
+            "content": "<img alt=\"parsec远程软件报6023错误\" src=\"/\" /><p>parsec是一款远程软件（同款软件有todesk，向日葵），parsec远程延迟很低而且免费</p>\n<p>parsec官网：https://parsec.app</p>\n<p>因为本人是台式电脑，有时候上课会远程一下自己电脑</p>\n<p>避免还要去机房配Java环境，很麻烦</p>\n<p>这个软件好用是好用，但是过段时间就会报6023错误</p>\n<p>找了很多教程，摸索了一种解决方法，不代表通用</p>\n<p><strong>我是备用热点机开热点给宿舍台式使用</strong></p>\n<p>解决方法</p>\n<p>1.1 打开被控制端的parsec软件（也就是我宿舍的台式机的上的parsec客户端）</p>\n<p>1.2 点击齿轮 找到设置</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>1.3 点击network 找到 画红线的值 注意：<strong>每个机器的数值不一样 按照自己的填即可</strong></p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>1.4 填好对应的值 然后点击绿色框 restart 重启软件即可</p>\n<p>这样远程方连接被控方报错6023的情况就解决了</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>"
+        },
+        {
+            "title": "idea关闭ai自动补全",
+            "author": "",
+            "link": "https://usj.cc/1306/",
+            "published": "2024-06-02 03:48",
+            "summary": "今天电脑重装了一下，就顺便下载了个idea最新版 发现在自己写代码时不但有常用的类和方法的提示，还有自动AI代码生成 集成了ai可能实际做项目很",
+            "content": "<img alt=\"idea关闭ai自动补全\" src=\"/\" /><p>今天电脑重装了一下，就顺便下载了个idea最新版</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>发现在自己写代码时不但有常用的类和方法的提示，还有自动AI代码生成</p>\n<p>集成了ai可能实际做项目很方便，但是在练习的时候不便于思考</p>\n<p>ai会自动提示代码下一步怎么写</p>\n<p>搜索了若干教程，总算是关掉了，故写此教程做备忘</p>\n<p>1.点击File-&gt;Setting</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>2.将绿色框的取消勾选即可</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>"
+        },
+        {
             "title": "win11右键菜单改回win10方法",
             "author": "",
             "link": "https://usj.cc/1299/",
             "published": "2024-05-19 21:21",
             "summary": "从win10升级到win11用了一段时间，感觉蛮好用的 就是右键菜单逻辑被改了，用着有些难受 网上查了一些资料，是可以改回去的，这里做分享以备忘",
             "content": "<img alt=\"win11右键菜单改回win10方法\" src=\"/\" /><p>从win10升级到win11用了一段时间，感觉蛮好用的</p>\n<p>就是右键菜单逻辑被改了，用着有些难受</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>网上查了一些资料，是可以改回去的，这里做分享以备忘</p>\n<p>1.搜索打开 cmd 控制台</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>2.输入以下代码 注意不要多空格</p>\n<pre><code>reg add &quot;HKCU\\Software\\Classes\\CLSID\\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\\InprocServer32&quot; /f /ve\n</code></pre>\n<p>当提示操作成功完成即可</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>3.重启文件资源管理器，如果嫌麻烦可以直接重启电脑也是一样的</p>\n<p>3.1  重启文件管理器，首先打开任务管理器</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>找到进程里的文件资源管理器，然后右键重启服务即可</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>重启服务之后，你就会发现右键和win10样式一样了，方便许多</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<h2 id=\"恢复win11新版右键\">恢复win11新版右键</h2>\n<p>如果突然反悔，又想改回去，cmd执行以下命令 提示成功</p>\n<pre><code>reg delete &quot;HKCU\\Software\\Classes\\CLSID\\{86ca1aa0-34aa-4e8b-a509-50c905bae2a2}\\InprocServer32&quot; /va /f\n</code></pre>\n<p>然后重复上述重启资源任务管理器即可，重复操作，不再赘述</p>"
-        },
-        {
-            "title": "主机配置单",
-            "author": "",
-            "link": "https://usj.cc/1287/",
-            "published": "2024-04-05 20:39",
-            "summary": "评论区有小伙伴要配置单，前几周有些忙没有整理出来 今天正好清明放假，花了点时间整理出来 电子产品价格浮动区间较大，配置单仅供参考 整机效果 一些看法",
-            "content": "<img alt=\"主机配置单\" src=\"/\" /><p>评论区有小伙伴要配置单，前几周有些忙没有整理出来</p>\n<p>今天正好清明放假，花了点时间整理出来</p>\n<p>电子产品价格浮动区间较大，配置单仅供参考</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<h2 id=\"整机效果\">整机效果</h2>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<h2 id=\"一些看法\">一些看法</h2>\n<p>固态颗粒厂商产能缩紧，现在固态硬盘涨价很厉害，现在1T的盘均价都在450以上了，目前不太推荐入手</p>\n<p>如果不是刚需，可以先等等618价格，如果急需的话，推荐致钛，铠侠，这两款厂商的固态硬盘</p>"
-        },
-        {
-            "title": "一次点亮",
-            "author": "",
-            "link": "https://usj.cc/1284/",
-            "published": "2024-03-16 23:24",
-            "summary": "在笔记本下线之后，看了一圈狗东，因为自己玩游戏比较少 主要是看的商务本，好一点的商务笔记本就得四五千了 思来想去还是打算组装itx主机，论性价比",
-            "content": "<img alt=\"一次点亮\" src=\"/\" /><p>在笔记本下线之后，看了一圈狗东，因为自己玩游戏比较少</p>\n<p>主要是看的商务本，好一点的商务笔记本就得四五千了</p>\n<p>思来想去还是打算组装itx主机，论性价比还得是台式机</p>\n<p>2k成功拿下，拿来跑跑代码足够了，工作了再买张显卡，还是很香的</p>\n<p>感谢 @小李 @小陈 帮忙，成功一次点亮</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>"
         }
     ]
 }
