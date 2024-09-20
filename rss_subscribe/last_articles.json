@@ -1,12 +1,12 @@
 {
     "articles": [
         {
-            "title": "测试文章置顶",
+            "title": "运动打卡帖",
             "author": "",
-            "link": "https://usj.cc/20240919-zhiding/",
-            "published": "2024-09-20 07:29",
-            "summary": "测试文章置顶",
-            "content": "<img alt=\"测试文章置顶\" src=\"/\" /><p>测试文章置顶</p>"
+            "link": "https://usj.cc/20240920-sports/",
+            "published": "2024-09-21 06:56",
+            "summary": "",
+            "content": "<img alt=\"运动打卡帖\" src=\"/\" />"
         },
         {
             "title": "Hugo使用GitHub Action自动刷新多吉云CDN缓存",
