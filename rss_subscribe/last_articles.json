@@ -1,14 +1,6 @@
 {
     "articles": [
         {
-            "title": "运动打卡帖",
-            "author": "",
-            "link": "https://usj.cc/20240920-sports/",
-            "published": "2024-09-21 06:56",
-            "summary": "",
-            "content": "<img alt=\"运动打卡帖\" src=\"/\" />"
-        },
-        {
             "title": "Hugo使用GitHub Action自动刷新多吉云CDN缓存",
             "author": "",
             "link": "https://usj.cc/20240916-auto-refresh-cdn/",
@@ -39,6 +31,14 @@
             "published": "2024-06-02 19:36",
             "summary": "parsec是一款远程软件（同款软件有todesk，向日葵），parsec远程延迟很低而且免费 parsec官网：https://parsec",
             "content": "<img alt=\"parsec远程软件报6023错误\" src=\"/\" /><p>parsec是一款远程软件（同款软件有todesk，向日葵），parsec远程延迟很低而且免费</p>\n<p>parsec官网：https://parsec.app</p>\n<p>因为本人是台式电脑，有时候上课会远程一下自己电脑</p>\n<p>避免还要去机房配Java环境，很麻烦</p>\n<p>这个软件好用是好用，但是过段时间就会报6023错误</p>\n<p>找了很多教程，摸索了一种解决方法，不代表通用</p>\n<p><strong>我是备用热点机开热点给宿舍台式使用</strong></p>\n<p>解决方法</p>\n<p>1.1 打开被控制端的parsec软件（也就是我宿舍的台式机的上的parsec客户端）</p>\n<p>1.2 点击齿轮 找到设置</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>1.3 点击network 找到 画红线的值 注意：<strong>每个机器的数值不一样 按照自己的填即可</strong></p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>1.4 填好对应的值 然后点击绿色框 restart 重启软件即可</p>\n<p>这样远程方连接被控方报错6023的情况就解决了</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>"
+        },
+        {
+            "title": "idea关闭ai自动补全",
+            "author": "",
+            "link": "https://usj.cc/1306/",
+            "published": "2024-06-02 03:48",
+            "summary": "今天电脑重装了一下，就顺便下载了个idea最新版 发现在自己写代码时不但有常用的类和方法的提示，还有自动AI代码生成 集成了ai可能实际做项目很",
+            "content": "<img alt=\"idea关闭ai自动补全\" src=\"/\" /><p>今天电脑重装了一下，就顺便下载了个idea最新版</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>发现在自己写代码时不但有常用的类和方法的提示，还有自动AI代码生成</p>\n<p>集成了ai可能实际做项目很方便，但是在练习的时候不便于思考</p>\n<p>ai会自动提示代码下一步怎么写</p>\n<p>搜索了若干教程，总算是关掉了，故写此教程做备忘</p>\n<p>1.点击File-&gt;Setting</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>\n<p>2.将绿色框的取消勾选即可</p>\n<p>\n<img alt=\"\" class=\"lazyload\" /></p>"
         }
     ]
 }
