@@ -1,10 +1,10 @@
 {
   "statistical_data": {
     "friends_num": 58,
-    "active_num": 48,
-    "error_num": 10,
-    "article_num": 222,
-    "last_updated_time": "2024-09-22 02:16:32"
+    "active_num": 49,
+    "error_num": 9,
+    "article_num": 225,
+    "last_updated_time": "2024-09-22 09:05:12"
   },
   "article_data": [
     {
@@ -286,6 +286,13 @@
       "link": "https://www.logyu.cc/notes/open-up-a-new-hole-ah-ah-ah-ah-ah.html",
       "author": "日志屿",
       "avatar": "https://p.logyu.cc/logo.png"
+    },
+    {
+      "title": "成为业余无线电的一名香肠？",
+      "created": "2024-09-08 07:51",
+      "link": "https://www.xiaozonglin.cn/be-a-sausage/",
+      "author": "林林杂语",
+      "avatar": "https://cravatar.cn/avatar/04bfc914bd50b42eb507bf66aad0cc31?d=mp"
     },
     {
       "title": "黑发不知勤学早，白首方悔读书迟。周刊",
@@ -757,6 +764,13 @@
       "avatar": "https://cravatar.cn/avatar/120340d1df519f4e28613fe5d404b286?s=65&r=G&d="
     },
     {
+      "title": "雨夜",
+      "created": "2024-07-26 18:39",
+      "link": "https://www.xiaozonglin.cn/rainy-night/",
+      "author": "林林杂语",
+      "avatar": "https://cravatar.cn/avatar/04bfc914bd50b42eb507bf66aad0cc31?d=mp"
+    },
+    {
       "title": "久违的服务器迁移",
       "created": "2024-07-21 09:50",
       "link": "https://oxxx.cn/archives/1334.html",
@@ -804,6 +818,13 @@
       "link": "https://www.logyu.cc/daily/deploy-again.html",
       "author": "日志屿",
       "avatar": "https://p.logyu.cc/logo.png"
+    },
+    {
+      "title": "我有一个同学",
+      "created": "2024-07-11 19:04",
+      "link": "https://www.xiaozonglin.cn/I-have-a-classmate/",
+      "author": "林林杂语",
+      "avatar": "https://cravatar.cn/avatar/04bfc914bd50b42eb507bf66aad0cc31?d=mp"
     },
     {
       "title": "海景房电脑装机小记",
@@ -1443,6 +1464,13 @@
       "avatar": "https://whooc.com/logo"
     },
     {
+      "title": "这周六下午又接了个兼职",
+      "created": "2023-04-15 08:00",
+      "link": "https://www.ershiliu.com/20230415",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
+    },
+    {
       "title": "搭建跨平台访问的ChatGPT",
       "created": "2023-04-13 17:42",
       "link": "https://www.sirit.com.cn/archives/662/",
@@ -1457,9 +1485,16 @@
       "avatar": "https://www.sirit.com.cn/siritlogo.png"
     },
     {
-      "title": "观点：人类的进化",
-      "created": "2023-04-07 08:00",
-      "link": "https://www.ershiliu.com/20230407",
+      "title": "理论：韦伯定律",
+      "created": "2023-04-05 08:00",
+      "link": "https://www.ershiliu.com/20230405-1",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
+    },
+    {
+      "title": "心情不好，喝点酒",
+      "created": "2023-04-05 08:00",
+      "link": "https://www.ershiliu.com/20230405",
       "author": "二十六",
       "avatar": "https://www.ershiliu.com/favicon.ico"
     },
@@ -1471,20 +1506,6 @@
       "avatar": "https://www.sirit.com.cn/siritlogo.png"
     },
     {
-      "title": "记一次喝超浓茶后失眠的痛苦感受",
-      "created": "2023-03-21 08:00",
-      "link": "https://www.ershiliu.com/20230321",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
-    },
-    {
-      "title": "年后的孤独感",
-      "created": "2023-01-27 08:00",
-      "link": "https://www.ershiliu.com/20230127",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
-    },
-    {
       "title": "阳了个阳",
       "created": "2022-12-23 22:48",
       "link": "https://blog.allnull.cn/post-57",
@@ -1492,18 +1513,18 @@
       "avatar": "https://cravatar.cn/avatar/56238a7f177c534928fd3cf4161ab59e?s=65&r=G&d=mm"
     },
     {
+      "title": "今年双十一真不给力！",
+      "created": "2022-11-12 08:00",
+      "link": "https://www.ershiliu.com/20221112",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
+    },
+    {
       "title": "或许是遗憾吧",
       "created": "2022-11-12 05:56",
       "link": "https://blog.allnull.cn/post-56",
       "author": "十七的小栈",
       "avatar": "https://cravatar.cn/avatar/56238a7f177c534928fd3cf4161ab59e?s=65&r=G&d=mm"
-    },
-    {
-      "title": "我又一次开始新的博客",
-      "created": "2022-11-10 08:00",
-      "link": "https://www.ershiliu.com/20221110",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
     },
     {
       "title": "History Ⅱ",
@@ -1518,13 +1539,6 @@
       "link": "https://blog.fivk.cn/archives/1205.html",
       "author": "Fivk博客",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=11470226&s=640"
-    },
-    {
-      "title": "介绍一下网上的免费公共 DNS",
-      "created": "2021-12-30 08:00",
-      "link": "https://www.ershiliu.com/20211230",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
     },
     {
       "title": "Markdown常用基本语法",
@@ -1546,6 +1560,13 @@
       "link": "https://heitaosan.com/article/100",
       "author": "黑桃三",
       "avatar": "https://s2.ax1x.com/2020/01/03/lUmf81.png"
+    },
+    {
+      "title": "我换上联想小新pro13 2020了",
+      "created": "2021-10-01 08:00",
+      "link": "https://www.ershiliu.com/2021101",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
     },
     {
       "title": "友达以上恋人未满是一种怎样的体验？",
