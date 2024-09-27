@@ -3,8 +3,8 @@
     "friends_num": 58,
     "active_num": 49,
     "error_num": 9,
-    "article_num": 222,
-    "last_updated_time": "2024-09-27 09:00:53"
+    "article_num": 230,
+    "last_updated_time": "2024-09-27 14:19:18"
   },
   "article_data": [
     {
@@ -321,6 +321,13 @@
       "link": "https://www.logyu.cc/notes/open-up-a-new-hole-ah-ah-ah-ah-ah.html",
       "author": "日志屿",
       "avatar": "https://p.logyu.cc/logo.png"
+    },
+    {
+      "title": "成为业余无线电的一名香肠？",
+      "created": "2024-09-08 07:51",
+      "link": "https://www.xiaozonglin.cn/be-a-sausage/",
+      "author": "林林杂语",
+      "avatar": "https://cravatar.cn/avatar/04bfc914bd50b42eb507bf66aad0cc31?d=mp"
     },
     {
       "title": "黑发不知勤学早，白首方悔读书迟。周刊",
@@ -729,6 +736,13 @@
       "avatar": "https://www.liuchengrui.cn/myphoto.png"
     },
     {
+      "title": "Be like:",
+      "created": "2024-07-30 03:29",
+      "link": "https://www.vian.top/663.html",
+      "author": "Vian",
+      "avatar": "https://www.vian.top/avatar.ico"
+    },
+    {
       "title": "玻璃隧道",
       "created": "2024-07-29 18:23",
       "link": "https://mojinxi.cn/43.html",
@@ -762,6 +776,13 @@
       "link": "https://felixway.cn/post/707.html",
       "author": "未来往事",
       "avatar": "https://cravatar.cn/avatar/2ee35215cbea58cd8b2605e7f517d689?&d=mp"
+    },
+    {
+      "title": "雨夜",
+      "created": "2024-07-26 18:39",
+      "link": "https://www.xiaozonglin.cn/rainy-night/",
+      "author": "林林杂语",
+      "avatar": "https://cravatar.cn/avatar/04bfc914bd50b42eb507bf66aad0cc31?d=mp"
     },
     {
       "title": "久违的服务器迁移",
@@ -813,11 +834,25 @@
       "avatar": "https://p.logyu.cc/logo.png"
     },
     {
+      "title": "我有一个同学",
+      "created": "2024-07-11 19:04",
+      "link": "https://www.xiaozonglin.cn/I-have-a-classmate/",
+      "author": "林林杂语",
+      "avatar": "https://cravatar.cn/avatar/04bfc914bd50b42eb507bf66aad0cc31?d=mp"
+    },
+    {
       "title": "海景房电脑装机小记",
       "created": "2024-07-11 15:16",
       "link": "https://zhuo.re/writings/thoughts/hai-jing-fang-dian-nao-zhuang-ji-xiao-ji.html",
       "author": "土拨许",
       "avatar": "https://cravatar.cn/avatar/126bbc02f1aef6228805d330648d9aa1"
+    },
+    {
+      "title": "我不信这是真的",
+      "created": "2024-07-08 10:56",
+      "link": "https://www.vian.top/662.html",
+      "author": "Vian",
+      "avatar": "https://www.vian.top/avatar.ico"
     },
     {
       "title": "二合一平板电脑体验",
@@ -862,11 +897,32 @@
       "avatar": "https://qn.jdeal.cn/file/favicon.ico"
     },
     {
+      "title": "试驾奇瑞艾瑞泽8",
+      "created": "2024-06-27 22:50",
+      "link": "https://www.vian.top/660.html",
+      "author": "Vian",
+      "avatar": "https://www.vian.top/avatar.ico"
+    },
+    {
       "title": "生活的波折与转变",
       "created": "2024-06-27 06:47",
       "link": "https://www.zoujiang.com/856.html",
       "author": "邹江博客",
       "avatar": "https://www.zoujiang.com/logo.jpg"
+    },
+    {
+      "title": "面会菜",
+      "created": "2024-06-22 07:19",
+      "link": "https://www.vian.top/659.html",
+      "author": "Vian",
+      "avatar": "https://www.vian.top/avatar.ico"
+    },
+    {
+      "title": "在家的躺平生活",
+      "created": "2024-06-21 04:11",
+      "link": "https://www.vian.top/656.html",
+      "author": "Vian",
+      "avatar": "https://www.vian.top/avatar.ico"
     },
     {
       "title": "提车",
@@ -1443,6 +1499,13 @@
       "avatar": "https://whooc.com/logo"
     },
     {
+      "title": "这周六下午又接了个兼职",
+      "created": "2023-04-15 08:00",
+      "link": "https://www.ershiliu.com/20230415",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
+    },
+    {
       "title": "搭建跨平台访问的ChatGPT",
       "created": "2023-04-13 17:42",
       "link": "https://www.sirit.com.cn/archives/662/",
@@ -1457,11 +1520,32 @@
       "avatar": "https://www.sirit.com.cn/siritlogo.png"
     },
     {
+      "title": "关于今日的小记录",
+      "created": "2023-04-09 08:00",
+      "link": "https://www.ershiliu.com/20230409",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
+    },
+    {
+      "title": "观点：人类的进化",
+      "created": "2023-04-07 08:00",
+      "link": "https://www.ershiliu.com/20230407",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
+    },
+    {
       "title": "可得优KW-triO可调式活页打孔机的调校",
       "created": "2023-04-01 06:09",
       "link": "https://www.sirit.com.cn/archives/655/",
       "author": "大嘴狗狗",
       "avatar": "https://www.sirit.com.cn/siritlogo.png"
+    },
+    {
+      "title": "记一次喝超浓茶后失眠的痛苦感受",
+      "created": "2023-03-21 08:00",
+      "link": "https://www.ershiliu.com/20230321",
+      "author": "二十六",
+      "avatar": "https://www.ershiliu.com/favicon.ico"
     },
     {
       "title": "阳了个阳",
@@ -1478,13 +1562,6 @@
       "avatar": "https://cravatar.cn/avatar/56238a7f177c534928fd3cf4161ab59e?s=65&r=G&d=mm"
     },
     {
-      "title": "抗疫志愿者",
-      "created": "2022-10-29 08:00",
-      "link": "https://www.ershiliu.com/20221029",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
-    },
-    {
       "title": "History Ⅱ",
       "created": "2022-10-24 06:34",
       "link": "https://blog.allnull.cn/post-55",
@@ -1497,20 +1574,6 @@
       "link": "https://blog.fivk.cn/archives/1205.html",
       "author": "Fivk博客",
       "avatar": "https://q1.qlogo.cn/g?b=qq&nk=11470226&s=640"
-    },
-    {
-      "title": "介绍一下网上的免费公共 DNS",
-      "created": "2021-12-30 08:00",
-      "link": "https://www.ershiliu.com/20211230",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
-    },
-    {
-      "title": "从鸿蒙换成IOS 体验iphone 12",
-      "created": "2021-11-18 08:00",
-      "link": "https://www.ershiliu.com/20211118",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
     },
     {
       "title": "Markdown常用基本语法",
@@ -1537,13 +1600,6 @@
       "title": "家里的网络改造计划，完成啦！",
       "created": "2021-08-08 08:00",
       "link": "https://www.ershiliu.com/20210808",
-      "author": "二十六",
-      "avatar": "https://www.ershiliu.com/favicon.ico"
-    },
-    {
-      "title": "从 Typecho 迁移到 Eleventy",
-      "created": "2021-08-03 08:00",
-      "link": "https://www.ershiliu.com/20210803",
       "author": "二十六",
       "avatar": "https://www.ershiliu.com/favicon.ico"
     },
